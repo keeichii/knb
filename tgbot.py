@@ -1,5 +1,3 @@
-#7464158077:AAEXc7nM6aHbw8oBgEH9mO4GgFfqgLomBSQ - token
-
 import telebot
 from telebot import types
 import webbrowser
